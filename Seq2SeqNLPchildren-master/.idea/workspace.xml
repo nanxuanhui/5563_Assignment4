@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e9327f5-3179-4ed2-b46b-0565cfd7802e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seq2Seq_NLP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/.style.yapf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/data/cnn_daily_mail_summarization/process_data.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/data/cnn_daily_mail_summarization/process_story.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/data/toy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/data/wmt16_en_de.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/infer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/beam_search_viz/tree.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/beam_search_viz/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/generate_beam_viz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/generate_toy_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/generate_vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/multi-bleu.perl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/tools/profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/bin/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/circle.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/concepts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/contributing.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/decoders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/encoders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/getting_started.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/help.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/image_captioning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/images/nmt_tutorial_bleu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/images/nmt_tutorial_ppl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/inference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/models.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/nmt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/results.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/summarization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/tools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/docs/training.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/nmt_conv.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/nmt_conv_small.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/nmt_large.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/nmt_medium.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/nmt_small.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/text_metrics_bpe.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/text_metrics_sp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/train_seq2seq.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/example_configs/train_seq2seq_delay_start.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/mkdocs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/pylintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/configurable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/rnn_cell.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/seq2seq/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/seq2seq/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/seq2seq/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/input_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/parallel_data_provider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/postproc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/sequence_example_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/split_tokens_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/data/vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/attention_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/basic_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/beam_search_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/decoders/rnn_decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/conv_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/image_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/pooling_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/encoders/rnn_encoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/global_vars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/graph_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/graph_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/inference/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/inference/beam_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/inference/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/losses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/metrics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/metrics/bleu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/metrics/metric_specs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/metrics/rouge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/attention_seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/basic_seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/bridges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/image2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/model_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/models/seq2seq_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/tasks/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/tasks/decode_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/tasks/dump_attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/tasks/dump_beams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/tasks/inference_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/attention_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/beam_search_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/bridges_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/conv_encoder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/data_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/decoder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/example_config_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/hooks_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/input_pipeline_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/losses_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/metrics_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/models_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/pipeline_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/pooling_encoder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/rnn_cell_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/rnn_encoder_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/train_utils_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/test/vocab_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/training/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/training/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/seq2seq/training/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq2seq-master/tox.ini" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Seq2Seq_NLP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="e#25#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Seq2Seq_NLP.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Seq2SeqNLPchildren" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Seq2SeqNLPchildren" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9327f5-3179-4ed2-b46b-0565cfd7802e" name="Default Changelist" comment="" />
+      <created>1558850172783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558850172783</updated>
+      <workItem from="1558850191327" duration="2977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2977000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/example_configs/nmt_conv.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/docs/getting_started.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-229" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/docs/images/nmt_tutorial_bleu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/docs/images/nmt_tutorial_ppl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/bin/data/cnn_daily_mail_summarization/process_story.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1234" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/bin/infer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/bin/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/experiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/seq2seq/contrib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seq2seq-master/bin/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seq2Seq_NLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="37" column="31" lean-forward="true" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="e#25#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
