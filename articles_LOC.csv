@@ -1,0 +1,341 @@
+,LOC_entity,LOC_count
+0,la france,162
+1,paris,159
+2,france,159
+3,etats-unis,124
+4,europe,105
+5,allemagne,68
+6,américains,58
+7,l'europe,56
+8,de france,52
+9,israël,50
+10,washington,42
+11,jérusalem,40
+12,londres,40
+13,moscou,37
+14,chine,35
+15,grande-bretagne,34
+16,afrique,31
+17,new york,28
+18,amérique,28
+19,italie,28
+20,algérie,27
+21,espagne,26
+22,liban,25
+23,angleterre,25
+24,la chine,24
+25,beyrouth,23
+26,cisjordanie,22
+27,bruxelles,22
+28,russie,22
+29,suisse,21
+30,berlin,21
+31,genève,20
+32,jordanie,20
+33,pékin,19
+34,sinaï,18
+35,pologne,18
+36,gaza,17
+37,rome,17
+38,tel-aviv,17
+39,iran,17
+40,lyon,17
+41,japon,16
+42,maison-blanche,16
+43,damas,15
+44,alger,15
+45,syrie,15
+46,asie,15
+47,irak,15
+48,madrid,15
+49,ii,15
+50,marseille,14
+51,inde,14
+52,l'italie,14
+53,suède,14
+54,tunisie,13
+55,cuba,13
+56,vienne,13
+57,le japon,13
+58,hongrie,13
+59,bande de gaza,12
+60,egypte,12
+61,soudan,12
+62,méditerranée,12
+63,mexique,12
+64,européens,12
+65,belgique,12
+66,pacifique,12
+67,arabie saoudite,12
+68,les etats-unis,12
+69,vatican,11
+70,afrique du sud,11
+71,français,11
+72,pays-bas,11
+73,strasbourg,11
+74,au caire,10
+75,los angeles,10
+76,egyptiens,10
+77,etat,10
+78,roumanie,10
+79,prague,10
+80,tchécoslovaquie,10
+81,luxembourg,10
+82,libye,10
+83,danemark,10
+84,corée,10
+85,portugal,9
+86,lune,9
+87,kenya,9
+88,turquie,9
+89,munich,9
+90,caire,9
+91,californie,9
+92,norvège,9
+93,autriche,9
+94,britanniques,9
+95,versailles,8
+96,téhéran,8
+97,koweït,8
+98,maghreb,8
+99,canal de suez,8
+100,laos,8
+101,new york times,8
+102,vichy,8
+103,afghanistan,8
+104,francfort,8
+105,bonn,8
+106,vietnam,8
+107,toulouse,8
+108,somalie,8
+109,amman,8
+110,bordeaux,8
+111,bercy,8
+112,canada,8
+113,brésil,8
+114,matignon,7
+115,israéliens,7
+116,pakistan,7
+117,philippines,7
+118,la pologne,7
+119,u.r.s.s,7
+120,kremlin,7
+121,indochine,7
+122,rfa,7
+123,grèce,7
+124,tokyo,7
+125,du japon,7
+126,côte-d'ivoire,7
+127,hongkong,7
+128,madagascar,7
+129,congo,7
+130,gabon,7
+131,afrique noire,7
+132,milan,7
+133,normandie,7
+134,cambodge,7
+135,liberia,7
+136,yvelines,6
+137,regardez,6
+138,amérique du sud,6
+139,thaïlande,6
+140,sénégal,6
+141,guadeloupe,6
+142,plateau du golan,6
+143,manche,6
+144,argentine,6
+145,japonais,6
+146,l'afrique,6
+147,sahara,6
+148,allemands,6
+149,corée du sud,6
+150,ukraine,6
+151,australie,6
+152,hollywood,6
+153,wall street,6
+154,boulin,5
+155,la mecque,5
+156,géorgie,5
+157,mer rouge,5
+158,marrakech,5
+159,chili,5
+160,dakar,5
+161,floride,5
+162,orne,5
+163,bagdad,5
+164,orly,5
+165,seine-saint-denis,5
+166,shanghai,5
+167,albanie,5
+168,mogadiscio,5
+169,bosnie,5
+170,tunis,5
+171,cameroun,5
+172,royaume-uni,5
+173,saint-pétersbourg,5
+174,nantes,5
+175,montpellier,5
+176,guinée,5
+177,anglais,5
+178,bavière,5
+179,mark,5
+180,palais-bourbon,5
+181,cour de cassation,5
+182,gironde,5
+183,auschwitz,5
+184,république tchèque,5
+185,afrique du nord,5
+186,week-end,5
+187,italiens,5
+188,hauts-de-seine,5
+189,houston,4
+190,forêt de rambouillet,4
+191,beyrouth-ouest,4
+192,soleil,4
+193,séoul,4
+194,iraniens,4
+195,mendès france,4
+196,taiwan,4
+197,belgrade,4
+198,barcelone,4
+199,judée,4
+200,voulez,4
+201,palais bourbon,4
+202,parisiens,4
+203,seine-maritime,4
+204,venise,4
+205,berlinois,4
+206,l'algérie,4
+207,angola,4
+208,togo,4
+209,bangkok,4
+210,rhin,4
+211,brandebourg,4
+212,martinique,4
+213,caraïbes,4
+214,vaucluse,4
+215,maastricht,4
+216,sarajevo,4
+217,le caire,4
+218,mali,4
+219,africains,4
+220,d?abord,4
+221,rhône-poulenc,4
+222,budapest,4
+223,balkans,4
+224,sibérie,4
+225,chypre,4
+226,le soleil,4
+227,buenos aires,4
+228,la havane,4
+229,lausanne,4
+230,aquitaine,4
+231,pays basque,4
+232,stockholm,4
+233,corée du nord,4
+234,loire,4
+235,vosges,4
+236,schengen,4
+237,roissy,4
+238,guyane,4
+239,monrovia,4
+240,bretagne,3
+241,bethléem,3
+242,terre,3
+243,l?armée,3
+244,addis-abeba,3
+245,bangladesh,3
+246,oxford,3
+247,reims,3
+248,abidjan,3
+249,haïfa,3
+250,bâle,3
+251,savoie,3
+252,bekaa,3
+253,chiliens,3
+254,khomeiny,3
+255,istanbul,3
+256,manhattan,3
+257,grogne,3
+258,rouen,3
+259,oslo,3
+260,grenoble,3
+261,sorbonne,3
+262,turin,3
+263,seine,3
+264,alsace,3
+265,prusse,3
+266,hanoi,3
+267,sicile,3
+268,lille,3
+269,wuhan,3
+270,serbie,3
+271,cologne,3
+272,ruhr,3
+273,chinois,3
+274,asie du sud-est,3
+275,nanterre,3
+276,corne de l'afrique,3
+277,yémen,3
+278,cognac,3
+279,corse,3
+280,alexandrie,3
+281,jéricho,3
+282,eilat,3
+283,jérusalem-est,3
+284,auvergne,3
+285,nancy,3
+286,new delhi,3
+287,nankin,3
+288,mao,3
+289,cap kennedy,3
+290,mauritanie,3
+291,ville de paris,3
+292,boston,3
+293,pineau-valencienne,3
+294,dijon,3
+295,rwanda,3
+296,csg,3
+297,la seine,3
+298,copenhague,3
+299,kaboul,3
+300,saigon,3
+301,flandre,3
+302,wallonie,3
+303,finlande,3
+304,caucase,3
+305,kazakhstan,3
+306,québec,3
+307,draguignan,3
+308,cubains,3
+309,antilles,3
+310,dom-tom,3
+311,virginie,3
+312,amsterdam,3
+313,libanais,3
+314,kabylie,3
+315,chicago,3
+316,bilbao,3
+317,pas-de-calais,3
+318,nicaragua,3
+319,judée-samarie,3
+320,pendjab,3
+321,besogne,3
+322,ca,3
+323,république de weimar,3
+324,malaysia,3
+325,télé,3
+326,outre-rhin,3
+327,indonésie,3
+328,stuttgart,3
+329,de lille,3
+330,république,3
+331,troyes,3
+332,champagne,3
+333,venezuela,3
+334,mer de chine,3
+335,sienne,3
+336,victoria,3
+337,népal,3
+338,saint-louis,3
+339,kurdistan,3
